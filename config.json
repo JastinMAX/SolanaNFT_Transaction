@@ -1,0 +1,26 @@
+{
+  "tokenStandard": "nft",
+  "number": 100,
+  "symbol": "KMV",
+  "sellerFeeBasisPoints": 500,
+  "isMutable": true,
+  "isSequential": false,
+  "creators": [
+    {
+      "address": "2SyVJSy2FGKQQMbHBTiM4zjiwjJT4KjqTxLscEQ6JeHG",
+      "share": 100
+    }
+  ],
+  "solTreasuryAccount": "2SyVJSy2FGKQQMbHBTiM4zjiwjJT4KjqTxLscEQ6JeHG",
+  "price": 1, 
+  "uploadMethod": "bundlr",
+  "collection": {
+    "name": "Krypt x Meshvault Collection",
+    "family": "KRPT Collection"
+  },
+  "maxEditionSupply": null,
+  "goLiveDate": "2024-01-01T00:00:00+00:00",
+  "ruleSet": null,
+  "guards": null,
+  "hiddenSettings": null
+}

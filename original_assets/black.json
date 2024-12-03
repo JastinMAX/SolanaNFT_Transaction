@@ -1,0 +1,28 @@
+{
+  "name": "Krypt x Meshvault Black 001",
+  "symbol": "KMV",
+  "description": "Krypt nft collection - Black",
+  "image": "black_image_url",
+  "external_url": "",
+  "attributes": [
+    {
+      "trait_type": "Color",
+      "value": "Black"
+    }
+  ],
+  "properties": {
+    "creators": [
+      {
+        "address": "2SyVJSy2FGKQQMbHBTiM4zjiwjJT4KjqTxLscEQ6JeHG",
+        "share": 100
+      }
+    ],
+    "files": [
+      {
+        "uri": "black_image_url", 
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}
