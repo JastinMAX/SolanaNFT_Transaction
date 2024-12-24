@@ -1,0 +1,28 @@
+{
+  "name": "Krypt x Meshvault White 001",
+  "symbol": "KMV",
+  "description": "Krypt nft collection - White",
+  "image": "white_image_url",
+  "external_url": "",
+  "attributes": [
+    {
+      "trait_type": "Color",
+      "value": "White"
+    }
+  ],
+  "properties": {
+    "creators": [
+      {
+        "address": "2SyVJSy2FGKQQMbHBTiM4zjiwjJT4KjqTxLscEQ6JeHG",
+        "share": 100
+      }
+    ],
+    "files": [
+      {
+        "uri": "white_image_url", 
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}

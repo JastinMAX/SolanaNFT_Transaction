@@ -1,0 +1,28 @@
+{
+  "name": "Krypt x Meshvault Blue 001",
+  "symbol": "KMV",
+  "description": "Krypt nft collection - Blue",
+  "image": "blue_image_url", 
+  "external_url": "",
+  "attributes": [
+    {
+      "trait_type": "Color",
+      "value": "Blue"
+    }
+  ],
+  "properties": {
+    "creators": [
+      {
+        "address": "2SyVJSy2FGKQQMbHBTiM4zjiwjJT4KjqTxLscEQ6JeHG",
+        "share": 100
+      }
+    ],
+    "files": [
+      {
+        "uri": "blue_image_url", 
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}
